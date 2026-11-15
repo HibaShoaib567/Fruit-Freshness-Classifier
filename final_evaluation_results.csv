@@ -1,0 +1,10 @@
+Metric,Value
+Validation Images,7750.0
+Number of Classes,30.0
+Accuracy,0.9137
+Macro Precision,0.9255
+Macro Recall,0.9078
+Macro F1,0.9154
+Weighted Precision,0.9136
+Weighted Recall,0.9137
+Weighted F1,0.9129
